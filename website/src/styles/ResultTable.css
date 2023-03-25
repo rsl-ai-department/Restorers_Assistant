@@ -1,0 +1,21 @@
+.ResultTable h2 {
+  margin-bottom: 10px;
+}
+
+.ResultTable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.ResultTable th,
+.ResultTable td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.ResultTable th {
+  background-color: #0077ff;
+  color: #fff;
+}
+

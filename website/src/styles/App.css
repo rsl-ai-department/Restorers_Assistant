@@ -1,0 +1,26 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.UploadForm {
+  margin-bottom: 20px;
+}
+
+.ResultTable {
+  margin-top: 20px;
+}
+
+.ErrorMessage {
+  background-color: #ffcccc;
+  border: 1px solid #ff6666;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
