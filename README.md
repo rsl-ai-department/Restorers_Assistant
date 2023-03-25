@@ -36,7 +36,7 @@
 
 <h2>📝 License</h2>
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the GNU General Public License v3.0 - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>📬 Contact</h2>
 
